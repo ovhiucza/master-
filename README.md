@@ -64,8 +64,8 @@
 | AMD Ryzen 7 5700G | 8 核 / 16 线程 | 64GB DDR4 | 1TB NVMe | 1Gbps 不限量 | **$49.95** | 24-48h |  [立即购买](https://9vms.com/) |
 | Intel Dual Xeon E5-2680 v4 @ 2.4GHz | 28 核 / 56 线程 | 128GB DDR4 | 2TB SSD | 1Gbps 不限量 | **$79.95** | 24-48h |  [立即购买](https://9vms.com/) |
 | Intel Dual Xeon Gold 6138 @ 2.0GHz | 40 核 / 80 线程 | 256GB DDR5 | 2TB NVMe U.2 | 1Gbps 不限量 | **$109.95** | 24-48h |  [立即购买](https://9vms.com/) |
-| AMD Ryzen 9 7950X | 16 核 / 32 线程 | 128GB DDR5 | 2TB NVMe Samsung 990 Pro | 1Gbps 不限量 | **$119.95**（SLC）/ $149.95（LA） | 24-48h |  [立即购买](https://9vms.com/) |
-| AMD Ryzen 9 9950X（Zen 5） | 16 核 / 32 线程 | 128GB DDR5 | 2TB NVMe | 1Gbps 不限量 | **$179.95**（SLC）/ $199.95（LA/NY） | 24-48h |  [立即购买](https://9vms.com/) |
+| AMD Ryzen 9 7950X | 16 核 / 32 线程 | 128GB DDR5 | 2TB NVMe Samsung 990 Pro | 1Gbps 不限量 | **$119.95** | 24-48h |  [立即购买](https://9vms.com/) |
+| AMD Ryzen 9 9950X | 16 核 / 32 线程 | 128GB DDR5 | 2TB NVMe | 1Gbps 不限量 | **$179.95**（ | 24-48h |  [立即购买](https://9vms.com/) |
 | AMD Threadripper 7960X | 24 核 / 48 线程 | 256GB DDR5 | 2TB NVMe Samsung EVO Plus | 1Gbps 不限量 | **$274.95** | 24-48h |  [立即购买](https://9vms.com/) |
 | AMD EPYC 9654 Genoa | 96 核 / 192 线程 | 512GB DDR5 ECC | 4TB NVMe Samsung Pro 990 | 1Gbps 不限量 | **$599.95** | 24-48h |  [立即购买](https://9vms.com/) |
 
@@ -79,7 +79,7 @@
 
 ## 长期预付折扣
 
-FiberState 没有复杂的打折体系，但有预付折扣：
+9vms 没有复杂的打折体系，但有预付折扣：
 
 - **预付 3 个月**：享受 **5% 折扣**
 - **预付 6 个月**：享受 **10% 折扣**
